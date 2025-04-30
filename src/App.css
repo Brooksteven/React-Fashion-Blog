@@ -79,8 +79,9 @@ h2 {
   display: flex;
   gap: 2rem; /* controls spacing between items */
   font-weight: 300;
-  font-size: 1rem;
+  font-size: 1.3rem;
   letter-spacing: 0.05rem;
+  text-decoration: underline;
 }
 .main-nav {
   justify-content: space-between;
@@ -93,7 +94,7 @@ h2 {
   text-decoration: none;
   padding: 0.5rem;
 }
-.footer-nav a {
+.footer-nav li {
   color: tomato;
   text-decoration: none;
   padding: 0.5rem;
