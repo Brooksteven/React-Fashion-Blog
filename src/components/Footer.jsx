@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div>
-        <ul>
+        <ul className ='nav-list'>
             <li>Home</li>
             <li>Women's</li>
             <li>Men's</li>
